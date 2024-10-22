@@ -1,8 +1,6 @@
 # FA-2GL
-# FA^2GL
 we introduce a feature aggregation and association graph learning network (F𝐴^2GL) for CDR, which aggregates intrinsic and interaction feature representations of drugs and cell lines, and obtains their network-level knowledge from the association graph.
 
- ![model](./model.png)
 # Environment
 * python == 3.8.5
 * pytorch == 1.6
